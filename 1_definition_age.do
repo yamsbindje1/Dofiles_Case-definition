@@ -2,13 +2,10 @@
 *** CARAMAL DEFINITIONS: AGE ***************************************************
 ********************************************************************************
 
-* Author:	Yams
+* Author:Yams
 * Date:		20.01.2021
 
-* Version control:
-* 		- v1.0			Yams		Defined agegroup for all countries
-*		- v1.1			Yams		Corrected code: -98 is not considered anymore	
-* 		- v1.2			Yams		Added variable labels	
+
 
 * Note: Use "\\Yams.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
 

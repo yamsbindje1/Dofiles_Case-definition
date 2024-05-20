@@ -2,7 +2,7 @@
 *** CARAMAL DEFINITIONS: SEVERE MALARIA DIAGNOSIS ******************************
 ********************************************************************************
 
-* Author:	NBNR
+* Author:	Yams
 * Date:		27.01.2021
 
 * Version control:
