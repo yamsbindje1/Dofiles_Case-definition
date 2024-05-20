@@ -2,15 +2,15 @@
 *** CARAMAL DEFINITIONS: HEALTH OUTCOME ****************************************
 ********************************************************************************
 
-* Author:	MAH
+* Author:	Yams
 * Date:		26.03.2021
 
 * Version control:
-* 		- v1.0			MAH			Consolidated day 28 f/u health status
+* 		- v1.0			Yams			Consolidated day 28 f/u health status
 *									 beginning of the do-file. Deleted from country code.
 *		- *please enter changes here
 
-* Note: Use "\\KISUNDI.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
+* Note: Use "\\Yams.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
 
 
 *------------------------------------------------------------------------------*
