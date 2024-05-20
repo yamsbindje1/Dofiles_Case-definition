@@ -2,7 +2,7 @@
 *** CARAMAL DEFINITIONS: REFERRAL COMPLETION ***********************************
 ********************************************************************************
 
-* Author:	NBNR
+* Author:	Yams
 * Date:		04.03.2021
 
 * Version control:
@@ -13,7 +13,7 @@
 *									Added definition without taking account of sequence								
 *		- *please enter changes here
 
-* Note: Use "\\KISUNDI.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
+* Note: Use "\\Yams.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
 
 *------------------------------------------------------------------------------*
 
@@ -23,11 +23,11 @@ capture confirm variable referral_any
 // Run code for auxiliary variables
 capture confirm variable enrol_location
 if !_rc == 0 {
-	do "\\KISUNDI.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\8_definition_enrollmentlocation.do"
+	do "\\Yams.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\8_definition_enrollmentlocation.do"
 }
 capture confirm variable count_provider
 if !_rc == 0 {
-	do "\\KISUNDI.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\11_definition_providernumber.do"
+	do "\\Yams.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\11_definition_providernumber.do"
 }
 *------------------------------------------------------------------------------*
 
