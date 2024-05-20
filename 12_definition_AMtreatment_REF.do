@@ -2,7 +2,7 @@
 *** CARAMAL DEFINITIONS: INJECTABLE ANTIMALARIALS AND ACTS - REF ***************
 ********************************************************************************
 
-* Author:	GDEO, NBNR
+* Author:	Yams
 * Date:		31.03.2021
 
 * Version control:
