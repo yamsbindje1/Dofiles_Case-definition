@@ -2,11 +2,11 @@
 *** CARAMAL DEFINITIONS: DELAY TO FIRST PROVIDER *******************************
 ********************************************************************************
 
-* Author:	NBNR
+* Author:	Yams
 * Date:		29.03.2021
 
 * Version control:
-* 		- v1.0			NBNR		Defined delay to first provider for all countries
+* 		- v1.0			Yams		Defined delay to first provider for all countries
 
 * Note: Use "\\KISUNDI.swisstph.ch\EPH\CARAMAL\8. Results\8.3. Analysis\8.3.1. PSS\8.3.1.0 Definitions\do-files\0_generate_testdata.do" to test code below. 
 
