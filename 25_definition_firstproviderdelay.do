@@ -17,7 +17,7 @@
 capture confirm variable first_delay
 if !_rc == 0 {
 	gen first_delay = .
-		replace first_delay = d28_q16_1 if d28_q16_1 <= d28_q16_2
+		replace first_delay == d28_q16_1 if d28_q16_1 <= d28_q16_2
 		replace first_delay = df_q16_1 if df_q16_1 <= df_q16_2 & first_delay == .
 		replace first_delay = . if first_delay == -98
 		
